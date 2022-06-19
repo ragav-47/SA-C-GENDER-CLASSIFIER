@@ -80,7 +80,6 @@ pd.DataFrame(history.history).plot()
 ```
 
 ## OUTPUT:
-/*
 ![174449843-13e22959-b97d-4b12-8b20-820f972ab5be](https://user-images.githubusercontent.com/75235488/174487748-0814dce9-5052-40d5-ab4b-36701fc4a060.PNG)
 ![174449846-e30391c6-1d32-4a06-b380-298cfb3b15a2](https://user-images.githubusercontent.com/75235488/174487764-f4357ca4-194e-42b2-be1b-145b114bbc5c.PNG)
 
@@ -90,7 +89,6 @@ pd.DataFrame(history.history).plot()
 
 2. DEMO VIDEO YOUTUBE LINK:
 
-*/
 https://youtu.be/kVXaKbdFbsw
 
 ### RESULT:
